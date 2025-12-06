@@ -127,3 +127,7 @@ The sound engine gracefully handles missing files without crashing.
 ## 🚀 Installation & Run
 
 ### Install dependencies
+
+```bash
+pip install -r requirements.txt
+python3 main.py
