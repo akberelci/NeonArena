@@ -1,3 +1,0 @@
-**Created by: Akber Elci**  
-Neon Arena Project — 2025  
-Developed with Python & Pygame
